@@ -1,0 +1,9 @@
+Crear app para comisionistas.
+
+Debe tener:
+- formulario de pedidos
+- lista de viajes
+- contacto por WhatsApp
+- interfaz simple
+
+Dame estructura y textos.
