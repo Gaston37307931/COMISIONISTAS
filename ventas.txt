@@ -1,0 +1,11 @@
+Actuá como vendedor experto.
+
+Cliente duda en comprar app para comisionista.
+
+Responder objeciones:
+- “no tengo plata”
+- “lo pienso”
+- “no sé si me sirve”
+
+Objetivo:
+cerrar venta.
